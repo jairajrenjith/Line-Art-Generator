@@ -61,7 +61,7 @@ The script will:
 4. Save output → **Clean Line-Art Image**
 
 ## Output
-The processed line-art image will be saved in the `results\` directory. (Each image corresponding to each input image in `assets\` directory)
+The processed line-art image will be saved in the `results\` directory. (Each output image corresponding to each input image in `assets\` directory)
 
 ## Sample Run
 
