@@ -66,6 +66,7 @@ The processed line-art image will be saved in the `results\` directory. (Each im
 ## Sample Run
 
 Example 1:
+Input:                                                                     Output:
 <p align="center">
   <img src="./assets/portrait1.jpg" width="49%" alt="Original Input Image 1" /> 
 
