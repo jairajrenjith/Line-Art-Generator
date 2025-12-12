@@ -37,9 +37,6 @@ Line-Art-Generator/
     ```bash
     pip install -r requirements.txt
     ```
-Make sure your input image is placed in:
-
-assets/portrait1.jpg
 
 ## ▶️ Usage
 Run the project from the root directory:
