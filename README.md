@@ -9,23 +9,23 @@ This project converts an input image into a clean black-and-white line-art drawi
 - **Template-Compliant Structure** with organized folders and scripts.  
 
 ## 📂 Project Structure
-
+```
 opencv-project-template/
 │
 ├── src/
-│ ├── main.py # Main script that controls processing
-│ └── utils.py # Helper functions for image operations
+│ ├── main.py          # Main script that controls processing
+│ └── utils.py         # Helper functions for image operations
 │
-├── assets/ # Input images for processing
+├── assets/            # Input images for processing
 │ └── portrait1.jpg
 │
-├── results/ # Generated outputs
+├── results/           # Generated outputs
 │ └── line_art1.jpg
 │
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+├── requirements.txt   # Python dependencies
+├── README.md          # Project documentation
 └── .gitignore
-
+```
 ## 🔧 Installation
 Install the required dependencies:
 
