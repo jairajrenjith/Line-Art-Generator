@@ -27,10 +27,16 @@ Line-Art-Generator/
 └── .gitignore
 ```
 ## 🔧 Installation
-Install the required dependencies:
 
+1. Clone the repository:
+    ```bash
+    git clone <repo-link>
+    ```
+
+2. Install the required dependencies:
+```bash
 pip install -r requirements.txt
-
+```
 Make sure your input image is placed in:
 
 assets/portrait1.jpg
