@@ -63,4 +63,13 @@ The script will:
 ## Output
 The processed line-art image will be saved in the `results\` directory. (Each image corresponding to each input image in `assets\` directory)
 
+## Sample Run
+
+Example 1:
+<p align="center">
+  <img src="./assets/portrait1.jpg" width="49%" alt="Original Input Image 1" /> 
+
+  <img src="./results/line_art_1.jpg" width="49%" alt="Generated Line Art 1" />
+</p>
+
 Made by Jairaj R.
