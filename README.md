@@ -52,7 +52,7 @@ The script will:
 - Convert it to grayscale  
 - Apply Canny edge detection  
 - Increase thickness using dilation  
-- Save the final output as `results/line_art1.jpg`
+- Save the final output in `results`
 
 ## How It Works
 1. Convert the input image → **Grayscale**  
