@@ -18,13 +18,11 @@ Line-Art-Generator/
 │
 ├── assets/            # Input images for processing
 │ ├── portrait1.jpg
-| ├── portrait2.jpg
-| └── portrait3.jpg
+| └── portrait2.jpg
 │
 ├── results/           # Generated outputs
 │ ├── line_art1.jpg
-│ ├── line_art2.jpg
-│ └── line_art3.jpg
+│ └── line_art2.jpg
 │
 ├── requirements.txt   # Python dependencies
 └── README.md          # Project documentation
@@ -69,17 +67,9 @@ Example 1:
 Example 2:
 
 <p align="center">
-  <img src="./assets/portrait2.jpg" width="49%" alt="Original Input Image 3" /> 
+  <img src="./assets/portrait2.jpg" width="49%" alt="Original Input Image 2" /> 
 
-  <img src="./results/line_art2.jpg" width="49%" alt="Generated Line Art 3" />
-</p>
-
-Example 3:
-
-<p align="center">
-  <img src="./assets/portrait3.jpg" width="49%" alt="Original Input Image 3" /> 
-
-  <img src="./results/line_art3.jpg" width="49%" alt="Generated Line Art 3" />
+  <img src="./results/line_art2.jpg" width="49%" alt="Generated Line Art 2" />
 </p>
 
 Made by Jairaj R.
