@@ -52,7 +52,7 @@ The script will:
 - Convert it to grayscale  
 - Apply Canny edge detection  
 - Increase thickness using dilation  
-- Save the final output in `results`
+- Save the final output in `results\`
 
 ## How It Works
 1. Convert the input image → **Grayscale**  
@@ -61,6 +61,6 @@ The script will:
 4. Save output → **Clean Line-Art Image**
 
 ## Output
-The processed line-art image will be saved in: `results`
+The processed line-art image will be saved in the `results\` directory. (Each image corresponding to each input image in `assets\` directory)
 
 Made by Jairaj R.
