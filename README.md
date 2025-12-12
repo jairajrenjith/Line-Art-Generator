@@ -38,25 +38,25 @@ Line-Art-Generator/
     pip install -r requirements.txt
     ```
 
-## ▶️ Usage
+## Usage
 Run the project from the root directory:
-
+```bash
 python src/main.py
-
+```
 The script will:
 - Load the input image  
 - Convert it to grayscale  
 - Apply Canny edge detection  
 - Increase thickness using dilation  
-- Save the final output to `results/line_art1.jpg`
+- Save the final output as `results/line_art1.jpg`
 
-## 🧠 How It Works
+## How It Works
 1. Convert the input image → **Grayscale**  
 2. Apply **Edge Detection** using Canny  
 3. Apply **Dilation** to thicken edges  
 4. Save output → **Clean Line-Art Image**
 
-## 📸 Output
+## Output
 The processed line-art image will be saved in:
 
 results/line_art1.jpg
