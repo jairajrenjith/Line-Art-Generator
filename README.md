@@ -67,12 +67,26 @@ The processed line-art image will be saved in the `results\` directory. (Each im
 
 Example 1:
 
-Input: &nbsp;&nbsp;&nbsp; Output:
-
 <p align="center">
   <img src="./assets/portrait1.jpg" width="49%" alt="Original Input Image 1" /> 
 
   <img src="./results/line_art1.jpg" width="49%" alt="Generated Line Art 1" />
+</p>
+
+Example 2:
+
+<p align="center">
+  <img src="./assets/portrait2.jpg" width="49%" alt="Original Input Image 3" /> 
+
+  <img src="./results/line_art2.jpg" width="49%" alt="Generated Line Art 3" />
+</p>
+
+Example 3:
+
+<p align="center">
+  <img src="./assets/portrait3.jpg" width="49%" alt="Original Input Image 3" /> 
+
+  <img src="./results/line_art3.jpg" width="49%" alt="Generated Line Art 3" />
 </p>
 
 Made by Jairaj R.
