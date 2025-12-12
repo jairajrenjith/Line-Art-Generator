@@ -3,10 +3,10 @@
 This project converts an input image into a clean black-and-white line-art drawing using OpenCV and Python.
 
 ## Features
-- **Automatic Line Detection** using Canny edge detection.  
-- **Adjustable Line Thickness** using morphological dilation.  
-- **Clean, Simple Output** resembling hand-drawn outlines.  
-- **Template-Compliant Structure** with organized folders and scripts.  
+- **Converts Images to Line Art**: Generates a black-and-white sketch version of any input image.  
+- **Adjustable Line Thickness**: Lines can be thicker or thinner based on a single parameter.  
+- **Automatic Processing**: Takes an image from the assets folder and saves the result directly without user interaction.  
+- **Clean and Clear Output**: Produces high-contrast line-art with a white background and visible black outlines.  
 
 ## Project Structure
 ```
