@@ -61,8 +61,6 @@ The script will:
 4. Save output → **Clean Line-Art Image**
 
 ## Output
-The processed line-art image will be saved in:
-
-results/line_art1.jpg
+The processed line-art image will be saved in: `results`
 
 Made by Jairaj R.
