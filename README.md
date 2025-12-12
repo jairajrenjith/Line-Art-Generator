@@ -17,13 +17,13 @@ Line-Art-Generator/
 │ └── utils.py         # Helper functions for image operations
 │
 ├── assets/            # Input images for processing
-│ └── portrait1.jpg
-| └── portrait2.jpg
+│ ├── portrait1.jpg
+| ├── portrait2.jpg
 | └── portrait3.jpg
 │
 ├── results/           # Generated outputs
-│ └── line_art1.jpg
-│ └── line_art2.jpg
+│ ├── line_art1.jpg
+│ ├── line_art2.jpg
 │ └── line_art3.jpg
 │
 ├── requirements.txt   # Python dependencies
