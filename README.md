@@ -1,6 +1,6 @@
 # Line Art Generator
 
-This project converts an input image into a clean black-and-white line-art drawing using OpenCV.
+This project converts an input image into a clean black-and-white line-art drawing using OpenCV and Python.
 
 ## ✨ Features
 - **Automatic Line Detection** using Canny edge detection.  
