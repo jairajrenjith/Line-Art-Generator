@@ -51,7 +51,7 @@ python src/main.py
 1. Convert the input image to **Grayscale**.
 2. Apply **Edge Detection** using Canny.
 3. Apply **Dilation** to thicken edges. 
-4. Save the final output in `results\` directory.
+4. Save the final output image in `results\` directory.
 
 ## Output
 The processed line-art image will be saved in the `results\` directory. (Each output image corresponding to each input image in `assets\` directory)
