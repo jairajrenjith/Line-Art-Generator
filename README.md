@@ -27,8 +27,7 @@ Line-Art-Generator/
 │ └── line_art3.jpg
 │
 ├── requirements.txt   # Python dependencies
-├── README.md          # Project documentation
-└── .gitignore
+└── README.md          # Project documentation
 ```
 ## Installation
 
