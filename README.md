@@ -46,18 +46,12 @@ Run the project from the root directory:
 ```bash
 python src/main.py
 ```
-The script will:
-- Load the input image  
-- Convert it to grayscale  
-- Apply Canny edge detection  
-- Increase thickness using dilation  
-- Save the final output in `results\`
 
 ## How It Works
-1. Convert the input image → **Grayscale**  
-2. Apply **Edge Detection** using Canny  
-3. Apply **Dilation** to thicken edges  
-4. Save output → **Clean Line-Art Image**
+1. Convert the input image to **Grayscale**.
+2. Apply **Edge Detection** using Canny.
+3. Apply **Dilation** to thicken edges. 
+4. Save the final output in `results\` directory.
 
 ## Output
 The processed line-art image will be saved in the `results\` directory. (Each output image corresponding to each input image in `assets\` directory)
