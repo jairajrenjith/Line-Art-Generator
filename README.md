@@ -54,7 +54,7 @@ python src/main.py
 4. Save the final output image in `results\` directory.
 
 ## Output
-The processed line-art image will be saved in the `results\` directory. (Each output image corresponding to each input image in `assets\` directory)
+The processed line-art image will be saved in the `results\` directory. (Each output image corresponding to each input image in the `assets\` directory)
 
 ## Sample Run
 
