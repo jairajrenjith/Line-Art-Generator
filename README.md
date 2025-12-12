@@ -69,7 +69,7 @@ Example 1:
 <p align="center">
   <img src="./assets/portrait1.jpg" width="49%" alt="Original Input Image 1" /> 
 
-  <img src="./results/line_art_1.jpg" width="49%" alt="Generated Line Art 1" />
+  <img src="./results/line_art1.jpg" width="49%" alt="Generated Line Art 1" />
 </p>
 
 Made by Jairaj R.
