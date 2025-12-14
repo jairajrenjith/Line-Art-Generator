@@ -2,11 +2,15 @@
 
 This project converts an input image into a clean black-and-white line-art drawing using OpenCV and Python.
 
+---
+
 ## Features
 - **Converts Images to Line Art**: Generates a black-and-white sketch version of any input image.  
 - **Adjustable Line Thickness**: Lines can be thicker or thinner based on a single parameter.  
 - **Automatic Processing**: Takes an image from the assets folder and saves the result directly without user interaction.  
 - **Clean and Clear Output**: Produces high-contrast line-art with a white background and visible black outlines.  
+
+---
 
 ## Project Structure
 ```
@@ -41,7 +45,7 @@ Line-Art-Generator/
 2. Goto the directory:
 
     ```bash
-    cd Semiconductor-Chatbot
+    cd Line-Art-Generator
     ```
 
 3. Create a virtual environment:
@@ -78,14 +82,20 @@ Run the project from the root directory:
 python src/main.py
 ```
 
+---
+
 ## How It Works
 1. Convert the input image to **Grayscale**.
 2. Apply **Edge Detection** using Canny.
 3. Apply **Dilation** to thicken edges. 
 4. Save the final output image in `results\` directory.
 
+---
+
 ## Output
 The processed line-art image will be saved in the `results\` directory. (Each output image corresponding to each input image in the `assets\` directory)
+
+---
 
 ## Sample Run
 
@@ -104,5 +114,12 @@ Example 2:
 
   <img src="./results/line_art2.jpg" width="49%" alt="Generated Line Art 2" />
 </p>
+
+---
+
+## License
+
+This project is intended for educational and research purposes only.
+
 
 Made by Jairaj R.
